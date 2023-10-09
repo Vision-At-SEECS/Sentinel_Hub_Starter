@@ -12,4 +12,6 @@ Before you begin, ensure that you met following requirements.
 
 ## What is Sentinel Hub Process API?
 
-The Sentinel Hub Process API is part of the Sentinel Hub ecosystem, which provides easy access to a vast repository of Earth observation data, including Sentinel-2, Sentinel-1, Landsat, and more. With the Process API, you can define custom processing tasks and workflows using Python scripts to retrieve and manipulate satellite data to meet your specific needs.
+The Sentinel Hub Process API is part of the Sentinel Hub ecosystem, which provides easy access to a vast repository of Earth observation data, including Sentinel-2, Sentinel-1, Landsat, and more. With the Process API, you can harness the capabilities of the Sentinel Hub service to retrieve, process, and analyze satellite imagery in a seamless and efficient manner.
+
+
