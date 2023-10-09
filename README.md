@@ -28,6 +28,7 @@ To cover the basis of downloading satellite imagery using Sentinel Hub, couple o
 
 ### Prerequisites (account creation, python library installation, etc.) & Retrieving Single Satellite Image
 
+![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Single%20Date%20Imagery/clear_image.png)
 
 
 ### Retrieving Satellite Images at Multiple Timestamps
