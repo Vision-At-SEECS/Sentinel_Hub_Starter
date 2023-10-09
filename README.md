@@ -1,2 +1,3 @@
 # Sentinel_Hub_Starter
-Sentinel_Hub_Starter Tutorial for new-comers
+
+Welcome to the Sentinel Hub Starter pack where you can grab a basic understanding of downloading satellite imagery from different satellite resources (Sentinel, Landsat, Modis, ...).
