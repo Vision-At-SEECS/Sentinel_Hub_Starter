@@ -33,4 +33,5 @@ To cover the basis of downloading satellite imagery using Sentinel Hub, couple o
 
 ### Retrieving Satellite Images at Multiple Timestamps
 
+![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Multi%20Timestamps%20Imagery/multiple_timestamps.png)
 
