@@ -5,7 +5,10 @@ Welcome to the Sentinel Hub Starter pack, a useful resource to get basic underst
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Video Tutorials](#video-tutorials)
+2. [Downloading Satellite Imagery](#downloading-satellite-imagery)
+3. [Getting Started](#getting-started)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Introduction
 
@@ -24,18 +27,42 @@ To use Sentinel Hub's Process API in python, you'll need to have:
 
 ## Downloading Satellite Imagery
 
-To cover the basis of downloading satellite imagery using Sentinel Hub, couple of video tutorials are created. Each video covers a specific task and walk you through python notebook and other anciliary resources in an interactive manner which you can easily follow along for hands-on practice.
+To cover the basis of downloading satellite imagery using Sentinel Hub, couple of video tutorials are created. Each video covers a specific example and walk you through python notebook and other anciliary resources in an interactive manner which you can easily follow along for hands-on practice.
 
-### Prerequisites & Retrieving Single Satellite Imagery
+### Video 1: Retrieving Single Satellite Imagery
+
+It is an introductory video on Sentinel Hub and resources associated with such as Sentinel Hub Requests Builder. After following the tutorial, you'll be able to define a region of interest, write python code, download any satellite imagery for a single date with least cloud cover and finally visualize it.
 
 [Video Link](https://drive.google.com/file/d/1kfzSp2aU3qahWpALy5ay7k8KrZ-WwPaT/view?usp=sharing)
 
 ![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Single%20Date%20Imagery/clear_image.png)
 
 
-### Retrieving Satellite Imagery at Multiple Timestamps
+### Video 2: Retrieving Satellite Imagery at Multiple Timestamps
+
+This tutorial covers the method of downloading more than one images at multiple timestamps, using Process API of Sentinel Hub in Python, as per your requirement.
 
 [Video Link](https://drive.google.com/file/d/1ET1OPIZUQPwcqIcjkmrOkQ9LpEntP4EL/view?usp=sharing)
 
 ![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Multi%20Timestamps%20Imagery/multiple_timestamps.png)
 
+
+## Getting Started
+
+To get started with Sentinel Hub for downloading satellite imagery:
+
+- Clone or download this repository to your local machine.
+- Follow the corresponding video tutorial and python notebook.
+
+## Contributing
+
+We welcome contributions to this Starter Pack! If you have additional video tutorials, code examples, or improvements to the documentation, please consider contributing. Please contact the [MachVIS](https://vision.seecs.edu.pk/) lab administration for guidelines on how to contribute.
+
+## License
+
+This Sentinel Hub Starter Pack is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content as needed.
+
+Moreover, if you have any questions or feedback, don't hesitate to reach out.
+
+---
+*Disclaimer: This Starter Pack is not affiliated with Sentinel Hub and is provided for educational purposes only.*
