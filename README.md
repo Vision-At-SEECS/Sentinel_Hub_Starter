@@ -28,14 +28,14 @@ To cover the basis of downloading satellite imagery using Sentinel Hub, couple o
 
 ### Prerequisites & Retrieving Single Satellite Imagery
 
-[Video Tutorial](https://drive.google.com/file/d/1kfzSp2aU3qahWpALy5ay7k8KrZ-WwPaT/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/1kfzSp2aU3qahWpALy5ay7k8KrZ-WwPaT/view?usp=sharing)
 
 ![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Single%20Date%20Imagery/clear_image.png)
 
 
 ### Retrieving Satellite Imagery at Multiple Timestamps
 
-[Video](https://drive.google.com/file/d/1ET1OPIZUQPwcqIcjkmrOkQ9LpEntP4EL/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/1ET1OPIZUQPwcqIcjkmrOkQ9LpEntP4EL/view?usp=sharing)
 
 ![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Multi%20Timestamps%20Imagery/multiple_timestamps.png)
 
