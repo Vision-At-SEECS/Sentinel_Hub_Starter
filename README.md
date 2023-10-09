@@ -24,8 +24,12 @@ To use Sentinel Hub's Process API in python, you'll need to have:
 
 ## Downloading Satellite Imagery
 
-To cover the basis of downloading satellite imagery using Sentinel Hub, couple of video tutorials are created. Each video covers a specific task and walk you through python notebook and other anciliary resources in an interactive manner which you can easily follow along.
+To cover the basis of downloading satellite imagery using Sentinel Hub, couple of video tutorials are created. Each video covers a specific task and walk you through python notebook and other anciliary resources in an interactive manner which you can easily follow along for hands-on practice.
 
 ### Prerequisites (account creation, python library installation, etc.) & Retrieving Single Satellite Image
 
+
+
 ### Retrieving Satellite Images at Multiple Timestamps
+
+
