@@ -4,6 +4,10 @@ Welcome to the Sentinel Hub Starter pack, a useful resource to get basic underst
 
 ## Pre-requisites
 
-- [Sentinel Hub Account](https://www.sentinel-hub.com/)
+Before you begin, ensure that you met following requirements.
+
 - Python
-- [sentinelhub python library](https://sentinelhub-py.readthedocs.io/en/latest/index.html) 
+- [Sentinel Hub Account](https://www.sentinel-hub.com/)
+- [sentinelhub Python Library](https://sentinelhub-py.readthedocs.io/en/latest/index.html) 
+
+## What is Sentinel Hub Process API?
