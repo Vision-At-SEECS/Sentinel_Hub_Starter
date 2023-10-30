@@ -33,7 +33,7 @@ To cover the basis of downloading satellite imagery using Sentinel Hub, couple o
 
 It is an introductory video on Sentinel Hub and resources associated with such as Sentinel Hub Requests Builder. After following the tutorial, you'll be able to define a region of interest, write python code, download any satellite imagery for a single date with least cloud cover and finally visualize it.
 
-[Video Link](https://drive.google.com/file/d/1kfzSp2aU3qahWpALy5ay7k8KrZ-WwPaT/view?usp=sharing)
+[Video Link](https://youtu.be/HIbf_te9WIo?si=lwLJF_XcEuvnyUad)
 
 ![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Single%20Date%20Imagery/clear_image.png)
 
@@ -42,7 +42,7 @@ It is an introductory video on Sentinel Hub and resources associated with such a
 
 This tutorial covers the method of downloading more than one images at multiple timestamps, using Process API of Sentinel Hub in Python, as per your requirement.
 
-[Video Link](https://drive.google.com/file/d/1ET1OPIZUQPwcqIcjkmrOkQ9LpEntP4EL/view?usp=sharing)
+[Video Link](https://youtu.be/3umlk9X561M?si=-sNvUnHnRLonp0GB)
 
 ![alt text](https://github.com/Vision-At-SEECS/Sentinel_Hub_Starter/blob/main/Multi%20Timestamps%20Imagery/multiple_timestamps.png)
 
